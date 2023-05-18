@@ -1,0 +1,59 @@
+body {
+  background-image: url("data:image/jpeg;base64,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");
+  background-size: cover; /* Adjust the image size to cover the entire background */
+  background-position: center; /* Position the image at the center */
+}
+
+.container {
+  background-image: url("https://wallpapers.com/images/featured/mvehfqz6w2ges2dj.jpg");
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="email"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.error {
+  color: red;
+}
+
+#password-strength {
+  margin-top: 5px;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  /* Styles for mobile devices */
+  .container {
+    padding: 10px;
+  }
+}
+
